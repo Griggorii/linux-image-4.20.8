@@ -1,3 +1,3 @@
-https://www74.zippyshare.com/v/U2rzcgZa/file.html сначала пере копировать библиотеки
+https://www74.zippyshare.com/v/U2rzcgZa/file.html сначала пере копировать библиотеки , для OS 8.0 https://github.com/Griggorii/Cinnamon-Budgie-OS-4.0-beta-based-18.04/blob/master/README.md в библиотеках уже не нуждается ставить сначало heder kernel потом остальные деб пакеты
 
-Beta OS 8.0 ubuntu 18.10 bonus https://dropmefiles.com/DCUu2 сделать после глобального обновления новый профиль и зайти в него или в режим guest удалить или переместить свой skel из etc
+
