@@ -1,4 +1,4 @@
-https://www63.zippyshare.com/v/zjWvltrG/file.html сначала пере копировать библиотеки , для OS 8.0 https://github.com/Griggorii/Cinnamon-Budgie-OS-4.0-beta-based-18.04/blob/master/README.md в библиотеках уже не нуждается ставить сначало header kernel потом остальные деб пакеты.
+https://dropmefiles.com.ua/eWKHA4 сначала пере копировать библиотеки , для OS 8.0 https://github.com/Griggorii/Cinnamon-Budgie-OS-4.0-beta-based-18.04/blob/master/README.md в библиотеках уже не нуждается ставить сначало header kernel потом остальные деб пакеты.
 
 Ядро проверено поддерживает 3G , 4G , LTE устройства всё работает
 
